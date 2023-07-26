@@ -18,5 +18,8 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "@module-federation/nextjs-mf": "^7.0.6"
+  }
 }
